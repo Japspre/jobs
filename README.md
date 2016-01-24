@@ -24,8 +24,8 @@ We're always looking for high-level agile-minded developers, QA, dev-ops, design
 "Mobility" and "Mobile" sounds very similar, right? And you're sure it's not a coincidence?   
 Then you **must** check open positions we have!
 
- - [Android Engineer](android-engineer)
- - [iOS Engineer](ios-engineer)
+ - [Android Engineer](android-engineer.md)
+ - [iOS Engineer](ios-engineer.md)
  
  
 <!-- - [Product/Project Manager]()
