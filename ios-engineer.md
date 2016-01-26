@@ -18,4 +18,8 @@
 - Plus: You have an eye for design and user experience
 - Remote work is not an option right now.
 
-Are you the one we are looking for? – Drop a line with your CV to <vadym.voitiuk@meinfernbus.de>
+### How to apply
+
+Are you the one we are looking for? Then drop us a line to <vadym.voitiuk@meinfernbus.de>.
+We'd like to see your CV, list of published applications (as a portfolio or just a list, it doesn't matter).
+Code samples and/or active GitHub profile is a plus.
