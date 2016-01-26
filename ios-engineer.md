@@ -12,7 +12,7 @@
 - Being positive thinking person with at least 2 years working experience with iOS, Objective-C, concurrency, networking, UI, animations, etc
 - Understand OOP, Design patterns, Agile, TDD/BDD, Usability practices
 - Being in touch with current mobile development trends, approaches, libraries and frameworks
-- Having experience working with other mobile platform (iOS, Windows Phone, HTML5) or other programming languages – is a big plus
+- Having experience working with other mobile platform (Android, Windows Phone, HTML5) or other programming languages – is a big plus
 - Speak English, that’s our main language.
 - Plus: Swift and test automation experience
 - Plus: You have an eye for design and user experience
