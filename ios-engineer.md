@@ -3,9 +3,9 @@
 ### What we offer:
 
 - Amazing experience of working on a products with incredible non-digital  value (You have probably already seen our green buses on the streets, right?)
-- Real agile development based on current situation, without Gantt-charts and dusty specifications
+- Real agile development based on modern practices, without Gantt-charts and dusty specifications
 - Join a diverse, experienced team to exchange your ideas and contribution
-Office at Alexanderplatz, competitive salary, soft working hours, conferences
+- Office at Alexanderplatz, competitive salary, flexible working hours, conferences
 
 ### What we expect from you:
 
